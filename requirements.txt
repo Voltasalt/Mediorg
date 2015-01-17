@@ -1,0 +1,6 @@
+watchdog
+PyQt5
+tvdb_api
+requests
+pymediainfo
+lxml
